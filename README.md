@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @timcalaguas
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning Vue
 - 💞️ I’m looking to collaborate on open source repos
 - 📫 How to reach me ...
 
